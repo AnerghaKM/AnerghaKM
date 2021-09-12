@@ -21,10 +21,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-f8fbfd?style=for-the-badge&logo=java&logoColor=f89820)
 ![C](https://img.shields.io/badge/-C-3776AB?style=for-the-badge&logo=c&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
 <br>
 ![Piglatin](https://img.shields.io/badge/-Piglatin-f8fbfd?style=for-the-badge&logo=piglatin&logoColor=f78d08)
 ![Assembly](https://img.shields.io/badge/-Assembly-f8fbfd?style=for-the-badge&logo=assembly&logoColor=2080f8)
@@ -44,7 +41,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Anergha">
+<a href="https://github.com/AnerghaKM">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
