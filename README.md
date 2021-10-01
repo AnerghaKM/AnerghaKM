@@ -28,7 +28,7 @@
 
 -🌱 A self driven passionate Software Engineer,holding bachelor's degree in Computer Science and Engineering
 
--👩💻 I'm so fond of human computer interface and my primary focus is to constantly experiment with cutting-edge technologies and techniques
+-👩💻 I'm so fond of human computer interface and my primary focus is to constantly experiment with cutting-edge technologies 
 
 -🔭 My area of interest is in ML & AI
 
