@@ -91,10 +91,10 @@
 </a>
 </p>
 
-###  🤝 &nbsp;Connect with Me
+### ☺ &nbsp;Happy to connect with you
 
 <p>
-<a href="https://anergha.github.io/"><img src="https://img.shields.io/badge/--000000?style=flat&logo=Github&logoColor=white"/></a> 
+<a href="https://github.com/AnerghaKM"><img src="https://img.shields.io/badge/--000000?style=flat&logo=Github&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/anerghakm/"><img src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:anerghaa@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/--1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
