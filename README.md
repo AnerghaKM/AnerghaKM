@@ -34,7 +34,7 @@
 
 -🏢 I’m currently working at IBM
 
--🤝 Certified Data Scientist from IBM
+-📜 Certified Data Scientist from IBM
 
 -💻 My projects are available at [😺](https://github.com/AnerghaKM?tab=repositories)
  
