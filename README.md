@@ -45,8 +45,8 @@
 -⚡ Fun fact: A culinary Artist 🍳  & doodler 😎 😂 
 
 
-### 🛠 &nbsp;Skills,Languages and Tools
-### -------------------------
+### 🛠 &nbsp;Skills , Languages and Tools
+
 
 
 
@@ -86,7 +86,7 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-### -------------------------
+
 
 
 
