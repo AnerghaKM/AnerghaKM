@@ -42,7 +42,7 @@
 
 -📫 Reach me [✉️](mailto:anerghaa@gmail.com)
 
--⚡ Fun fact: A culinary Artist 🍳  & doodler 🤪
+-⚡ Fun fact: A culinary Artist 🍳  & doodler 😎 😂 
 
 
 ### 🛠 &nbsp;Skills,Languages and Tools
