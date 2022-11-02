@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anergha</h1>
-<h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
+<h3 align="center">Data & Analytics Engineer</h3>
 
 
 <a href="https://www.linkedin.com/in/anerghakm/">
@@ -26,11 +26,11 @@
 
 
 
--🌱 A self driven passionate Software Engineer,holding bachelor's degree in Computer Science and Engineering
+-🌱 A Data Professional ,holding bachelor's degree in Computer Science and Engineering
 
 -👩💻 I'm so fond of human computer interface and my primary focus is to constantly experiment with cutting-edge technologies 
 
--🔭 My area of interest is in ML & AI
+-🔭 My area of interest is in Data & AI
 
 -🏢 I’m currently working at IBM
 
