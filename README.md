@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/anerghakm/">
   <img align="left" alt="Anergha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/anergha_k_m">
+<a href="">
   <img align="left" alt="Anergha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://stackoverflow.com/users/8736270/anergha">
@@ -18,11 +18,11 @@
 <br />
 
 
-<img src="https://komarev.com/ghpvc/?username=Anergha" alt="Anergha" /> 
+<img src="https://komarev.com/ghpvc/?username=AnerghaKM" alt="Anergha" /> 
 
-[![Repos Badge](https://badges.pufler.dev/repos/AnerghaKM)](https://badges.pufler.dev) 
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/AnerghaKM)](https://badges.pufler.dev) -->
 
-[![Years Badge](https://badges.pufler.dev/years/Anergha)](https://badges.pufler.dev)
+<!-- [![Years Badge](https://badges.pufler.dev/years/AnerghaKM)](https://badges.pufler.dev) -->
 
 
 
@@ -30,7 +30,7 @@
 
 -👩💻 I'm so fond of human computer interface and my primary focus is to constantly experiment with cutting-edge technologies 
 
--🔭 My area of interest is in Data & AI
+-🔭 My area of interest is in Big Data & AI
 
 -🏢 I’m currently working at IBM
 
