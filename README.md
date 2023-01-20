@@ -2,7 +2,7 @@
 <h3 align="center">Data & Analytics Engineer</h3>
 
 
-<a href="https://www.linkedin.com/in/anerghakm/">
+<a href="">
   <img align="left" alt="Anergha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="">
@@ -102,10 +102,8 @@
 <p>
 <a href="https://github.com/AnerghaKM"><img src="https://img.shields.io/badge/--000000?style=flat&logo=Github&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/anerghakm/"><img src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:anerghaa@gmail.com"><img src="https://img.shields.io/badge/--D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/--1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/anergha_k_m"><img src="https://img.shields.io/badge/--fb3958?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/anergha.anu"><img src="https://img.shields.io/badge/--3b5998?style=flat&logo=FAcebook&logoColor=white"/></a>
+
 
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anergha&" alt="Anergha" /></p> -->
