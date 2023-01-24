@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Anergha</h1>
 <h3 align="center">Data & Analytics Engineer</h3>
 
+[![Github](https://img.shields.io/github/followers/AnerghaKM?label=Follow&style=social)](https://github.com/AnerghaKM/)
+
 
 <a href="">
   <img align="left" alt="Anergha's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
