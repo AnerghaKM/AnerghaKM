@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Anergha</h1>
 <h3 align="center">Data & Analytics Engineer</h3>
 
-[![Github](https://img.shields.io/github/followers/AnerghaKM?label=Follow&style=social)](https://github.com/AnerghaKM/)
+[![Github](https://img.shields.io/github/AnerghaKM?label=Follow&style=social)](https://github.com/AnerghaKM/)
 
 
 <a href="">
