@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Anergha</h1>
-<h3 align="center">Data & Analytics Engineer</h3>
+<h3 align="center">DataScience & Analytics </h3>
 
 
 <a href="">
@@ -26,15 +26,15 @@
 
 
 
--🌱 A Data Professional ,holding bachelor's degree in Computer Science and Engineering
+-🌱 A Data Professional ,holding bachelor's degree in Computer Science and Engineering and master's degree in Data science
 
 -👩💻 I'm so fond of human computer interface and my primary focus is to constantly experiment with cutting-edge technologies 
 
 -🔭 My area of interest is in Big Data & AI
 
--🏢 I’m currently working at IBM
+-🏢 and what more..
 
--📜 Certified Data Scientist from IBM 
+-📜 Certified Data Scientist from IBM and Microsoft
 
 -📜 Microsoft Certified Power BI Data Analyst 
 
