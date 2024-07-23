@@ -94,8 +94,8 @@
 
 <p align="center">
 <a href="https://github.com/Anergha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=tokyonight_duo&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=8&theme=tokyonight_duo"/>
 </a>
 </p>
 
@@ -104,11 +104,18 @@
 <p>
 <a href="https://github.com/AnerghaKM"><img src="https://img.shields.io/badge/--000000?style=flat&logo=Github&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/anerghakm/"><img src="https://img.shields.io/badge/--0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/AnerghaaKm"><img src="https://img.shields.io/badge/--1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://x.com/AnerghaaKm"><img src="https://img.shields.io/badge/--1877F2?style=flat&logo=X&logoColor=white"/></a>
 
 
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anergha&" alt="Anergha" /></p> -->
+
+### 📈 Streak-Stats ✨
+<p align = "center"><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnerghaKM&theme=tokyonight_duo" alt="AnerghaKM" /></p>
+
+<p><br></p>
+
+### 🐍 Github Contributions
+![github contribution grid snake animation](https://raw.githubusercontent.com/AnerghaKM/AnerghaKM/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 
