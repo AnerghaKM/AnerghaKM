@@ -93,9 +93,9 @@
 
 
 <p align="center">
-<a href="https://github.com/Anergha">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anergha&show_icons=true&theme=tokyonight_duo&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anergha&layout=compact&langs_count=8&theme=tokyonight_duo"/>
+<a href="https://github.com/AnerghaKM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AnerghaKM&show_icons=true&theme=tokyonight_duo&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnerghaKM&layout=compact&langs_count=8&theme=tokyonight_duo"/>
 </a>
 </p>
 
